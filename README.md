@@ -8,7 +8,7 @@ The R scripts in this repository contain the code necessary to reproduce simulat
 
 More detailed instruction on how to reproduce the results are provided in each folder.
 
-# Example
+## Example
 
 For each simulation scenario, there is a separate R file (`setup.R`) that specifies the parameters used in the data generation. For instance, when generating the data under the OMTM1 scenario:
 
