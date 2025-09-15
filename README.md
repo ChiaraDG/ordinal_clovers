@@ -1,10 +1,12 @@
 # Longitudinal and ordinal data analyses of cross-sectional, binary outcomes 
 
-The R scripts in this repository contain the code necessary to reproduce simulations and data analysis of the manuscript "Longitudinal and ordinal data analyses of cross-sectional, binary outcomes" (Di Gravio, Tao, Nam, ??, Schildcrout). The repository contains two folder:
+The R scripts in this repository contain the code necessary to reproduce simulations and data analysis of the manuscript "Longitudinal and ordinal data analyses of cross-sectional, binary outcomes" (Di Gravio, Tao, Nam, ??, Schildcrout). The repository contains three folders:
 
 * [Simulation Studies](https://github.com/ChiaraDG/ordinal_clovers/tree/main/Simulation%20Studies): contains the code necessary to replicate the simulations in the paper
 
 * [CLOVERS](https://github.com/ChiaraDG/ordinal_clovers/tree/main/CLOVERS): contains the code necessary to replicate the analysis of the CLOVERS study
+
+* [VIgnette](https://github.com/ChiaraDG/ordinal_clovers/tree/main/Vignette): contains a step-by-step guide on how to fit marginalized transition models with `OMTM1`.
 
 More detailed instruction on how to reproduce the results are provided in each folder.
 
